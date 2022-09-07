@@ -174,7 +174,7 @@ Download or clone the repo and open in VS Code.
 
 Install Yarn or npm.
 
-- Install Unity
+- Install Yarn
   ```sh
   npm install --global yarn
   ```
